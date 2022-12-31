@@ -1,9 +1,9 @@
-<h4 align="center">Hello there, Im Matjias 👋</h4>
+<h3 align="center">Hello there, Im Matjias 👋</h3>
 <h2 align="center">Im a developer in my spare time 💻</h2>
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-<h4>🤝 Socials</h4>
+<h3>🤝 Socials</h3>
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=504377753714294845)
 
