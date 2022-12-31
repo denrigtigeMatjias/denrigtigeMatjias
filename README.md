@@ -8,7 +8,7 @@
    <img alt="Github" src="https://img.shields.io/github/followers/denrigtigeMatjias?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>
 
 <p align="center">
-    <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=denrigtigeMatjias&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed"></a>
+    <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=denrigtigeMatjias&column=6&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed"></a>
 </p>
 
 <p align="center">Feel free to reach out to me im always open to chatting 💬</p>
