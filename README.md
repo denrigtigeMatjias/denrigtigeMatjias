@@ -21,16 +21,6 @@
     <a href="#"><img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 </p>
 
-<h2 align="center">My GitHub Stats 📈</h2>
-
-<div>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=denrigtigeMatjias&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+CONTRIBUTIONSSS...&area=true">
-</div>
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=denrigtigeMatjias&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denrigtigeMatjias&layout=compact&theme=material-palenight" width="400"></a>
-</p>
-
 <h2 align="center">Discord Profile</h2>
 <p align="center">
     <a href="https://discord.com/users/504377753714294845">
