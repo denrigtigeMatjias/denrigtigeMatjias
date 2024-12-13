@@ -1,4 +1,5 @@
 <h3 align="center">Hello there, Im Matjias 👋</h3>
+
 <h2 align="center">Im a developer in my spare time 💻</h2>
 
 <p align="center">
@@ -6,6 +7,7 @@
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Matjias%237539-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a></a>  
   <a href="https://github.com/denrigtigeMatjias">
    <img alt="Github" src="https://img.shields.io/github/followers/denrigtigeMatjias?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>
+</p>
 
 <p align="center">Feel free to reach out to me im always open to chatting 💬</p>
 
