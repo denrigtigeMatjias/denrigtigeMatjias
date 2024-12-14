@@ -26,7 +26,7 @@
 <h2 align="center">Discord Profile</h2>
 <p align="center">
     <a href="https://discord.com/users/504377753714294845">
-        <img title="Discord user" alt="My discord" src="[https://discord.c99.nl/widget/theme-4/504377753714294845.png](https://discord.c99.nl/widget/theme-4/504377753714294845.png)"/>
+        <img title="Discord user" alt="My discord" src="https://discord.c99.nl/widget/theme-4/504377753714294845.png"/>
     </a>
 </p>
 
